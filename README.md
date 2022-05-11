@@ -8,7 +8,7 @@ This are the files that I made for an OTA system.
 - Change the `token_of_user` to the your github token.
 - Change the `repo_name` to the repo at which the main code exists.
 
-#Installation:
+# Installation:
 - Setting up the OTA server
   1. Download the files present in the `service_code` folder to your machine.
   2. Change the `token_of_user` and `repo_name` to the respective values in the `.env` file.
