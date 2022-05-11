@@ -3,7 +3,7 @@ These are the files that I created when developing an OTA system for an ESP32.
 
 # Note:
 - Change all the `ip_address` to the ip address of the system that is going to run the OTA server.
-- You should have a system that is free to be used as an server.
+- You should have a system that is free to be used as a server.
 - You should have the ESP32 setup with the `.bin` file in the link https://micropython.org/download/esp32/
 - To setup the ESP32, check out https://docs.micropython.org/en/latest/esp32/tutorial/intro.html
 
@@ -19,7 +19,7 @@ The image above explains the theory of an OTA system.
   2. Change the `token_of_user` and `repo_name` to the respective values in the `.env` file.
   3. Change the `ip_address` to the system's ip address in the `server.py`.
   4. Change the `port_number` to any integer of your choice in the `server.py`.
-  5. Install all the requirements using the command `python3 -m pip install -r requirements.txt`
+  5. Install all the requirements using the command `python3 -m pip install -r requirements.txt`.
   6. Then run the `server.py` file to start the server.
 - Setting up the ESP32:
   1. Download the files present in the `microcontroller_code` folder to your machine.
