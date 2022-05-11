@@ -14,4 +14,4 @@ This are the files that I made for an OTA system.
   2. Change the `token_of_user` and `repo_name` to the respective values in the `.env` file.
   3. Change the `ip_address` to the system's ip address.
   4. Change the `port_number` to any integer of your choice.
-  5. Install all the requirements using the command `pip install -r requirements.txt`
+  5. Install all the requirements using the command `python3 -m pip install -r requirements.txt`
