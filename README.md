@@ -7,6 +7,9 @@ This are the files that I created when developing an OTA system for an ESP32.
 - You should have the ESP32 setup with the `.bin` file in the link https://micropython.org/download/esp32/
 - To setup the ESP32, check out https://docs.micropython.org/en/latest/esp32/tutorial/intro.html
 
+# Working Principle:
+![](https://drive.google.com/file/d/1lD_eUbedrPQLy86DDMEz-1sq6UXjKoFm/view?usp=sharing)
+
 # Installation:
 - Setting up the OTA server:
   1. Download the files present in the `service_code` folder to your machine.
@@ -25,3 +28,8 @@ This are the files that I created when developing an OTA system for an ESP32.
     - `ampy -p {PORT} put config.env` where PORT is the COM port at which your ESP32 board is connected to.
     - `ampy -p {PORT} put networks.json` where PORT is the COM port at which your ESP32 board is connected to.
     - `ampy -p {PORT} put boot.py` where PORT is the COM port at which your ESP32 board is connected to.
+# Resources:
+- https://docs.micropython.org/en/latest/esp32/tutorial/ - for developing the code for microcontroller
+- https://fastapi.tiangolo.com/ - for developing the server
+- https://docs.python.org/3/library/hashlib.html - for checking for updates
+- https://docs.python.org/3/library/base64.html - for encrypting and decrypting data sent by server to microcontroller
