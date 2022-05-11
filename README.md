@@ -9,6 +9,7 @@ This are the files that I created when developing an OTA system for an ESP32.
 
 # Working Principle:
 <iframe src="https://drive.google.com/file/d/1lD_eUbedrPQLy86DDMEz-1sq6UXjKoFm/preview" width="640" height="480" allow="autoplay"></iframe>
+The image above explains the theory of an OTA system.
 
 # Installation:
 - Setting up the OTA server:
