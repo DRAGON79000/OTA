@@ -1,5 +1,5 @@
 # OTA
-This are the files that I created when developing an OTA system for an ESP32.
+These are the files that I created when developing an OTA system for an ESP32.
 
 # Note:
 - Change all the `ip_address` to the ip address of the system that is going to run the OTA server.
