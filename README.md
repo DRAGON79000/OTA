@@ -9,7 +9,7 @@ This are the files that I created when developing an OTA system for an ESP32.
 
 # Working Principle:
 <p align="center">
-  <img src="https://github.com/DRAGON79000/OTA/blob/main/assets/OTA%20FlowChart.png" width="350" title="hover text">
+  <img src="https://github.com/DRAGON79000/OTA/blob/main/assets/OTA%20FlowChart.png">
 </p>
 The image above explains the theory of an OTA system.
 
