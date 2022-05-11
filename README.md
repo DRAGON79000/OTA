@@ -7,3 +7,6 @@ This are the files that I made for an OTA system.
 - Change the `ssid` and `password` to your respective network's ssid and password.
 - Change the `token_of_user` to the your github token.
 - Change the `repo_name` to the repo at which the main code exists.
+
+#Installation
+1. Download the files present in the `service_files`
