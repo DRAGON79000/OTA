@@ -8,8 +8,7 @@ This are the files that I created when developing an OTA system for an ESP32.
 - To setup the ESP32, check out https://docs.micropython.org/en/latest/esp32/tutorial/intro.html
 
 # Working Principle:
-<img src="https://drive.google.com/file/d/1lD_eUbedrPQLy86DDMEz-1sq6UXjKoFm/preview" width="640" height="480">
-
+<iframe src="https://drive.google.com/file/d/1lD_eUbedrPQLy86DDMEz-1sq6UXjKoFm/preview" width="640" height="480" allow="autoplay"></iframe>
 # Installation:
 - Setting up the OTA server:
   1. Download the files present in the `service_code` folder to your machine.
