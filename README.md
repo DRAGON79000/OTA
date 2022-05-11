@@ -8,8 +8,6 @@ This are the files that I created when developing an OTA system for an ESP32.
 - To setup the ESP32, check out https://docs.micropython.org/en/latest/esp32/tutorial/intro.html
 
 # Working Principle:
-<img src="https://drive.google.com/file/d/1lD_eUbedrPQLy86DDMEz-1sq6UXjKoFm/preview" width="640" height="480" ></img>
-![alt text](http://url/to/img.png)
 <p align="center">
   <img src="https://github.com/DRAGON79000/OTA/blob/main/assets/OTA%20FlowChart.png" width="350" title="hover text">
 </p>
